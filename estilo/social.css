@@ -27,5 +27,19 @@ a{
 }
 
 a:hover{
-background-color: red;
+    background-color: red;
+}
+
+div#insta a{
+    display: block;
+    background-color: aqua;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+div#insta a:hover{
+    background-color: blue;
 }
